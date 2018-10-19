@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SisoWard</string>
+
+    //strings in activity_main.xml
+    <string name="mode_both">日本語と英語を表示</string>
+    <string name="mode_japanese">日本語を表示</string>
+    <string name="mode_english">英語を表示
+    </string>
+</resources>
