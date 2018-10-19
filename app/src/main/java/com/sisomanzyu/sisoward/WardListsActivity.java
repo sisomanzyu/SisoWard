@@ -1,6 +1,5 @@
 package com.sisomanzyu.sisoward;
 
-import android.app.AppComponentFactory;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.LinearLayout;
